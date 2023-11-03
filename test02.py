@@ -12,6 +12,11 @@ class IoTThailand :
     #method
     def showData(salf) :
         print(salf.wow * 20)
+
+    #dest
+    def __del__(self):
+        print('Good morning Teacher...')
+
  
  
 ob1 = IoTThailand(10, 20, 10)

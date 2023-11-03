@@ -24,3 +24,10 @@ ob1 = TestA()
 ob2 = TestB()
 ob3 = TestD()
 
+class TestZ(TestA) :
+    data6 = 60
+
+    def showSAU():
+        print('Hello..........SAU')
+
+ob4 = TestZ

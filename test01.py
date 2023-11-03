@@ -1,7 +1,7 @@
 def sumNumber( ) :
     pass
 
-#สร้าง Class ใน python  ค่าคงที่ใฃ้ตัวใหญ่หมก ส่วนชื่อ class ต้องขึ้นต้นด้วยตัวใหญ่
+#สร้าง Class ใน python  ค่าคงที่ใช้ตัวใหญ่หมด ส่วนชื่อ class ต้องขึ้นต้นด้วยตัวใหญ่
 class IoTSAU :
     #data/attribute/filed/property member เหมือนกับตัวแปร
     info1=20
